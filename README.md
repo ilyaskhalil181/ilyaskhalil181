@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ilyas Khalil 👋
 
-<!--
-**ilyaskhalil181/ilyaskhalil181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at COMSATS University Islamabad currently learning software development, programming fundamentals, and problem solving.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* Python
+* C++
+* Git & GitHub
+* Data Structures & Algorithms
+
+## Interests
+
+* Software Development
+* AI & Emerging Technologies
+* Backend Development
+* Academic Projects
+
+## Academic Projects
+
+* Smart Hospital Management System
+* Digital Library System
+* Digital Library Archival System
+
+## Goal
+
+Continuously improving programming skills and gaining practical experience through projects and internships.
+  
