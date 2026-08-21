@@ -13,5 +13,6 @@ Software Engineering student at COMSATS University Islamabad focused on building
 
 ### Connect With Me
 * **LinkedIn:** [linkedin.com/in/ilyas-khalil](https://www.linkedin.com/in/ilyas-khalil/)
-* **Email:** ilyaskhalil181@gamil.com
-* 
+* **Email:** ilyaskhalil181@gmail.com
+  
+  
