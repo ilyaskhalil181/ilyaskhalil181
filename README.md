@@ -11,7 +11,7 @@ Software Engineer focused on building responsive, scalable web and mobile applic
 * **[Weather Forecast Web App](https://github.com/ilyaskhalil181/weather-forecast-app):** Interactive React application featuring dynamic state hooks, live API integration, and custom UI components.
 
 * **Automobile Showroom Web App:** Production-ready dealership application built with React, Tailwind CSS, Node.js, and Firebase featuring dynamic inventory filtering and video media integration.
-* 
+
 * **Freelance Analytics Dashboard:** Data-driven income and contract tracking application built using vanilla JavaScript.
 
 ### Connect With Me
